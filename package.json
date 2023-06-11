@@ -1,6 +1,6 @@
 {
   "name": "cypress-clipboard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds ability to copy and paste from clipboard to Cypress",
   "main": "index.js",
   "scripts": {
